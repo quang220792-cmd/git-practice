@@ -1,2 +1,2 @@
-MSSV: 220792
-Họ tên: Huỳnh Minh Quang
+MSSV: <mssv>
+Họ tên: <họ tên>
